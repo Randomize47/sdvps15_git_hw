@@ -8,6 +8,7 @@
 2.	Создайте публичный репозиторий. Обязательно поставьте галочку Initialize this repository with a README.
 3.	Склонируйте репозиторий, используя https протокол (git clone ...).
 
+<img src = "img/1.png" width = 100%>
 ![п.3.](https://github.com/Randomize47/sdvps15_git_hw/img/1.png)
  
 4.	Перейдите в каталог с клоном репозитория.
