@@ -11,7 +11,7 @@
 ![п.3.](https://github.com/Randomize47/sdvps15_git_hw/img/1.png)
  
 4.	Перейдите в каталог с клоном репозитория.
- 
+ ![4](https://github.com/Randomize47/sdvps15_git_hw/img/4.png)
 5.	Произведите первоначальную настройку git, указав свое настоящее имя и email (git config --global user.name и git config --global user.email johndoe@example.com).
 6.	Выполните команду git status и запомните результат.
  
